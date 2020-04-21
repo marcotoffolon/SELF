@@ -1,0 +1,11 @@
+lake : Silvaplana 
+winter : 1 - year : 2014 - N_dat : 25 days 
+24 -1 0.411524 
+winter : 2 - year : 2015 - N_dat : 20 days 
+20 0 0.690876 
+winter : 3 - year : 2016 - N_dat : 19 days 
+19 0 0.422699 
+winter : 4 - year : 2017 - N_dat : 19 days 
+17 -2 0.510076 
+winter : 5 - year : 2018 - N_dat : 29 days 
+29 0 0.403274 
